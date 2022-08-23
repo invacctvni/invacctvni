@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ##
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/invacctvni/invacctvni/blob/output/github-contribution-grid-snake.svg)
