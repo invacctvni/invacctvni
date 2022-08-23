@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Snake eating my contribution graph
+##
 ![snake gif](https://github.com/invacctvni/invacctvni/blob/output/github-contribution-grid-snake.gif)
